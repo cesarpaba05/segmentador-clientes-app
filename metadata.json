@@ -1,0 +1,6 @@
+{
+  "name": "Segmentador de Clientes",
+  "description": "Aplicación interactiva para segmentación de clientes con k-means diseñada para profesionales de negocio y mercadeo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
